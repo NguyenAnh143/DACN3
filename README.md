@@ -1,6 +1,6 @@
 # 🌡️ Hệ thống Giám sát và Dự báo Chất lượng Không khí 📊
 
-![Logo Dự án](https://via.placeholder.com/150) <!-- Thay bằng logo thực tế nếu có -->
+![Logo Dự án]([https://via.placeholder.com/150](https://upload.wikimedia.org/wikipedia/vi/5/5a/Logo_tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_C%C3%B4ng_ngh%E1%BB%87_th%C3%B4ng_tin_v%C3%A0_Truy%E1%BB%81n_th%C3%B4ng_Vi%E1%BB%87t_-_H%C3%A0n%2C_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%A0_N%E1%BA%B5ng.svg)) <!-- Thay bằng logo thực tế nếu có -->
 
 Hệ thống IoT này được phát triển để **giám sát và dự báo chất lượng không khí** trong phòng, đảm bảo môi trường an toàn và lành mạnh. Dự án sử dụng **ESP32** để thu thập dữ liệu cảm biến, **Raspberry Pi 4** làm node trung tâm với **MQTT Broker**, **web server** sử dụng Apache với PHP, và mô hình **Prophet** để dự báo, cùng **FreeRTOS** để quản lý đa nhiệm trên ESP32. 🎯
 
